@@ -3,7 +3,7 @@
 > **요약 / Summary:** Coda는 개인정보를 수집하지 않습니다. 모든 데이터는 귀하의 기기와 iCloud에만 저장됩니다.
 > Coda doesn't collect data. Everything stays on your device and in your iCloud.
 
-🔗 **Live page:** [https://_USERNAME_.github.io/coda-privacy/](https://_USERNAME_.github.io/coda-privacy/)
+🔗 **Live page:** [https://Coda-App.github.io/coda-privacy/](https://Coda-App.github.io/coda-privacy/)
 
 ---
 
